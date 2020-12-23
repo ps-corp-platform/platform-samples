@@ -91,7 +91,7 @@ private
     end
     info "#{@members.length} members found.\n"
 
-    CSV.open("all_users.csv", "ab") do |csv|
+    CSV.open("files/all_users.csv", "ab") do |csv|
       #csv << ["login", "email","org"]
       # iterate and print inactive members
       @members.each do |member|
@@ -223,7 +223,7 @@ private
     end
 
     # open a new csv for output
-    CSV.open("inactive_users.csv", "ab") do |csv|
+    CSV.open("files/inactive_users.csv", "ab") do |csv|
       #csv << ["login", "email","org"]
       # iterate and print inactive members
       @members.each do |member|
@@ -238,7 +238,7 @@ private
       end
     end
 
-    CSV.open("unrecognized_authors.csv", "ab") do |csv|
+    CSV.open("files/unrecognized_authors.csv", "ab") do |csv|
       #csv << ["name", "email","org"]
       @unrecognized_authors.each do |author|
         author_detail = []

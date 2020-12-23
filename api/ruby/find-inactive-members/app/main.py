@@ -155,8 +155,15 @@ if __name__ == "__main__":
 
     for org in orgs:
         print(f"##### INICIANDO EXTRAÇÃO DE USUÁRIOS - {org} ######")
-        get_users(org, limit_date)
+        ruby find_inactive_members.rb -o {org} -d {limit_date}
 
-    printFileCSV("bad_users", bad_users, 'commit')
-    printFileCSV("good_users", good_users, 'commit')
-    printFileCSV("all_users", all_users, 'all')
+    with open('files/all_users.csv') as f:
+    reader = csv.reader(f)
+    for idt, txt in reader:
+        temp = some_dict.get(idt, "")
+        some_dict[idt] = temp+";"+txt if temp else txt
+    print(some_dict)
+
+    #printFileCSV("bad_users", bad_users, 'commit')
+    #printFileCSV("good_users", good_users, 'commit')
+    #printFileCSV("all_users", all_users, 'all')
