@@ -249,10 +249,6 @@ private
         csv << author_detail
       end
     end
-
-    table = CSV.parse(File.read("all_users.csv"), headers: true)
-    @
-
   end
 end
 
