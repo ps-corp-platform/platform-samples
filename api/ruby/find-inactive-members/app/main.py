@@ -164,6 +164,15 @@ if __name__ == "__main__":
         some_dict[idt] = temp+";"+txt if temp else txt
     print(some_dict)
 
+    with open('files/inactive_users.csv') as f:
+    reader = csv.reader(f)
+    for idt, txt in reader:
+        temp = some_dict.get(idt, "")
+        some_dict[idt] = temp+";"+txt if temp else txt
+    print(some_dict)
+
+    #comparar
+
     #printFileCSV("bad_users", bad_users, 'commit')
     #printFileCSV("good_users", good_users, 'commit')
     #printFileCSV("all_users", all_users, 'all')
