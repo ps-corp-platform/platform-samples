@@ -4,10 +4,9 @@ import re
 import json
 from datetime import datetime, date, timedelta
 import config
+import os
 import csv
 
-
-for org in {"ps-rewards","ps-wallet"}; do ruby find_inactive_members.rb -o ${org} -d "Dec 23 2020"; done
 
 organizations = None
 bad_users = []
@@ -147,32 +146,21 @@ def printFileCSV(name, lista, tipo):
 
 if __name__ == "__main__":
     # CHange /data/orgs.json
-    with open('orgs.json') as f:
+    with open('app/orgs.json') as f:
         organizations = json.load(f)
 
-    limit_date = date.today() - timedelta(days=DAYS_STOPPED)
     orgs = list(filter(lambda x: organizations[x] is True, organizations))
 
     for org in orgs:
         print(f"##### INICIANDO EXTRAÇÃO DE USUÁRIOS - {org} ######")
-        ruby find_inactive_members.rb -o {org} -d {limit_date}
+        os.environ['OCTOKIT_ACCESS_TOKEN'] = ""
+        rvm_ruby = os.environ['OCTOKIT_ACCESS_TOKEN']
+        execution = f"ruby find_inactive_members.rb -o {org} -d {DAYS_STOPPED}"
+        os.system(execution)
 
-    with open('files/all_users.csv') as f:
-    reader = csv.reader(f)
-    for idt, txt in reader:
-        temp = some_dict.get(idt, "")
-        some_dict[idt] = temp+";"+txt if temp else txt
-    print(some_dict)
-
-    with open('files/inactive_users.csv') as f:
-    reader = csv.reader(f)
-    for idt, txt in reader:
-        temp = some_dict.get(idt, "")
-        some_dict[idt] = temp+";"+txt if temp else txt
-    print(some_dict)
-
-    #comparar
-
-    #printFileCSV("bad_users", bad_users, 'commit')
-    #printFileCSV("good_users", good_users, 'commit')
-    #printFileCSV("all_users", all_users, 'all')
+    # with open('files/all_users.csv') as f:
+    #     reader = csv.reader(f)
+    #     for idt, txt in reader:
+    #         temp = some_dict.get(idt, "")
+    #         some_dict[idt] = temp+";"+txt if temp else txt
+    #         print(some_dict)
