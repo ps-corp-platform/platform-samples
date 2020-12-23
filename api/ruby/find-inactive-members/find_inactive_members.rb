@@ -90,6 +90,20 @@ private
       }
     end
     info "#{@members.length} members found.\n"
+
+    CSV.open("all_users.csv", "ab") do |csv|
+      #csv << ["login", "email","org"]
+      # iterate and print inactive members
+      @members.each do |member|
+        member_detail = []
+        member_detail << member[:login]
+        member_detail << member[:email] unless member[:email].nil?
+        member_detail << @organization
+        info "#{member_detail} ALL\n"
+        csv << member_detail
+      end
+    end
+
   end
 
   def organization_repositories
@@ -209,30 +223,36 @@ private
     end
 
     # open a new csv for output
-    CSV.open("inactive_users.csv", "wb") do |csv|
-      csv << ["login", "email"]
+    CSV.open("inactive_users.csv", "ab") do |csv|
+      #csv << ["login", "email","org"]
       # iterate and print inactive members
       @members.each do |member|
         if member[:active] == false
           member_detail = []
           member_detail << member[:login]
           member_detail << member[:email] unless member[:email].nil?
+          member_detail << @organization
           info "#{member_detail} is inactive\n"
           csv << member_detail
         end
       end
     end
 
-    CSV.open("unrecognized_authors.csv", "wb") do |csv|
-      csv << ["name", "email"]
+    CSV.open("unrecognized_authors.csv", "ab") do |csv|
+      #csv << ["name", "email","org"]
       @unrecognized_authors.each do |author|
         author_detail = []
         author_detail << author[:name]
         author_detail << author[:email]
+        author_detail << @organization
         info "#{author_detail} is unrecognized\n"
         csv << author_detail
       end
     end
+
+    table = CSV.parse(File.read("all_users.csv"), headers: true)
+    @
+
   end
 end
 
