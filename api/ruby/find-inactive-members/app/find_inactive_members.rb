@@ -91,13 +91,13 @@ private
     end
     info "#{@members.length} members found.\n"
 
-    CSV.open("files/all_users.csv", "ab") do |csv|
+    CSV.open("../files/all_users.csv", "ab") do |csv|
       #csv << ["login", "email","org"]
       # iterate and print inactive members
       @members.each do |member|
         member_detail = []
         member_detail << member[:login]
-        member_detail << member[:email] unless member[:email].nil?
+        #member_detail << member[:email] unless member[:email].nil?
         member_detail << @organization
         info "#{member_detail} ALL\n"
         csv << member_detail
@@ -210,6 +210,9 @@ private
     # for each repo
     @repositories.each do |repo|
       info "rate limit remaining: #{@client.rate_limit.remaining}  "
+      if @client.rate_limit.remaining < 100
+        sleep 180
+      end
       info "analyzing #{repo}"
 
       commit_activity(repo)
@@ -223,14 +226,14 @@ private
     end
 
     # open a new csv for output
-    CSV.open("files/inactive_users.csv", "ab") do |csv|
+    CSV.open("../files/inactive_users.csv", "ab") do |csv|
       #csv << ["login", "email","org"]
       # iterate and print inactive members
       @members.each do |member|
         if member[:active] == false
           member_detail = []
           member_detail << member[:login]
-          member_detail << member[:email] unless member[:email].nil?
+          #member_detail << member[:email] unless member[:email].nil?
           member_detail << @organization
           info "#{member_detail} is inactive\n"
           csv << member_detail
@@ -238,7 +241,7 @@ private
       end
     end
 
-    CSV.open("files/unrecognized_authors.csv", "ab") do |csv|
+    CSV.open("../files/unrecognized_authors.csv", "ab") do |csv|
       #csv << ["name", "email","org"]
       @unrecognized_authors.each do |author|
         author_detail = []

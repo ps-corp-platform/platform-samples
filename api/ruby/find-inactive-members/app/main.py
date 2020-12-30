@@ -6,7 +6,7 @@ from datetime import datetime, date, timedelta
 import config
 import os
 import csv
-
+from collections import defaultdict, namedtuple
 
 organizations = None
 bad_users = []
@@ -126,41 +126,59 @@ def appendList(listName, user, commit_date=None):
             'user': user
         })
 
+def removeDuplicate():
+    lines_seen = set() # holds lines already seen
+    with open("../files/output_file.csv", "w") as output_file:
+        for each_line in open("../files/unrecognized_authors.csv", "r"):
+            if each_line not in lines_seen: # check if line is not duplicate
+                output_file.write(each_line)
+                lines_seen.add(each_line)
+        os.rename("../files/output_file.csv", "../files/unrecognized_authors.csv")
 
-def printFileCSV(name, lista, tipo):
+def appendOrgs(name):
     # Gera os arquivos CSVs
 
-    campos = {
-            'commit': ['user', 'commit-time'],
-            'all': ['user'],
-    }
-
     # Change /data/results
-    write_obj = open(f"/data/results/{name}.csv", 'w', newline='')
-    dict_writer = csv.DictWriter(write_obj, fieldnames=campos[tipo])
-    dict_writer.writeheader()
+    out = {}
+    tmpFile = "../files/tmp.csv"
+    inputFile = f"../files/{name}.csv"
 
-    for item in lista:
-        dict_writer.writerow(item)
+    with open(inputFile, "r") as f, open(tmpFile, "w", newline='') as outFile:
+        reader = csv.reader(f)
+        writer = csv.writer(outFile, delimiter=',')
+        #writer.writerow(next(reader))
+        for idt, txt in reader:
+            temp = out.get(idt, "")
+            out[idt] = temp+";"+txt if temp else txt
+        writer.writerows(list(out.items()))
+        os.rename(tmpFile, inputFile)
 
+def compareFiles():
+    with open('../files/all_users.csv', 'r') as t1, open('../files/inactive_users.csv', 'r') as t2:
+        fileone = t1.readlines()
+        filetwo = t2.readlines()
+
+    with open('../files/result.csv', 'w') as outFile:
+        for line in filetwo:
+            if line in fileone:
+                outFile.write(line)
 
 if __name__ == "__main__":
     # CHange /data/orgs.json
-    with open('app/orgs.json') as f:
+    with open('orgs.json') as f:
         organizations = json.load(f)
 
     orgs = list(filter(lambda x: organizations[x] is True, organizations))
 
     for org in orgs:
         print(f"##### INICIANDO EXTRAÇÃO DE USUÁRIOS - {org} ######")
-        os.environ['OCTOKIT_ACCESS_TOKEN'] = ""
+        os.environ['OCTOKIT_ACCESS_TOKEN'] = GITHUB_API_TOKEN
+        os.environ['OCTOKIT_API_ENDPOINT'] = GITHUB_API_URL
         rvm_ruby = os.environ['OCTOKIT_ACCESS_TOKEN']
         execution = f"ruby find_inactive_members.rb -o {org} -d {DAYS_STOPPED}"
         os.system(execution)
-
-    # with open('files/all_users.csv') as f:
-    #     reader = csv.reader(f)
-    #     for idt, txt in reader:
-    #         temp = some_dict.get(idt, "")
-    #         some_dict[idt] = temp+";"+txt if temp else txt
-    #         print(some_dict)
+    
+    appendOrgs("all_users")
+    appendOrgs("inactive_users")
+    removeDuplicate()
+    compareFiles()
