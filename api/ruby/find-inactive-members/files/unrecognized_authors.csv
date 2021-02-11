@@ -1,109 +1,276 @@
 name,email,org
+Bruno Braziel,brbraziel@uolinc.com,ps-data-platform
+bfoliveira,bfoliveira@uolinc.com,ps-data-platform
+Bruno Braziel,bbraziel@uolinc.com,ps-data-platform
+Bruno,bbraziel@uolinc.com,ps-data-platform
+Glauber Duarte Monteiro,glmonteiro@uolinc.com,ps-data-platform
+Rodrigo Lima Aragao,raragao@uolinc.com,ps-data-platform
+Leonardo Krivickas,lkrivickas@uolinc.com,ps-data-platform
+Leonardo Gouveia Naccarati,lgouveia@ni-86343-7.uolcorp.intranet,ps-data-platform
 Thiago Vinicius Siqueira de Andrade,thiago.siqueira@CTNDELLC819YR2.pampa.compasso,ps-data-platform
 augusto.cadini,augusto.cadini@compasso.com.br,ps-data-platform
 Anderson Joel Portes,ctl_aportes@gmail.com,ps-data-platform
-bfoliveira,bfoliveira@uolinc.com,ps-data-platform
 Guilherme Henrique Pereira Danielli,guilherme.danielli@pampa.compasso,ps-data-platform
+Gabriel Felipe Krabbe,gabriel.krabbe@pampa.compasso,ps-data-platform
+Bruno da Silva Braziel,bbraziel@uolinc.com,ps-data-platform
+Jeferson Antonio Batista de Sa,jbsa@ni-64937-8p.uolcorp.intranet,ps-data-platform
 Felipe Alberto Silva Escalhao,fescalhao@uolinc.com,ps-data-platform
 Andre Luiz Francisco,aluiz@uolinc.com,ps-data-platform
+Patricia Mayumi Shigematsu,pshigematsu@dc.pags,ps-data-platform
+Gutierry Nicacio Guizzi,gguizzi@dc.pags,ps-data-platform
 Jose Guilherme Dantas Ramia,jramia@uolinc.com,ps-data-platform
 svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-data-platform
+didone,didone@compasso.com.br,ps-data-platform
+Tiago Didoné,tiago.didone@compasso.com.br,ps-data-platform
+Márcio Barbosa Gomes,marcio.gomes@invillia.com,ps-rewards
+Everton da silva rodrigues,esrodrigues@uolinc.com,ps-bank
+Davi Souza Sande,davi.sande@uolinc.com,ps-bank
+Izaquiel Furtado da Cruz,izaquiel-cruz@izaquiel.cruz,ps-bank
+Acassio Marques,ajmarques@pagseguro.com,ps-bank
 Alex Michael de Figueredo,afigueredo@ni-91555-3.uolcorp.intranet,ps-bank
 Rafael Aulik,raulik@ni-12931-5p.uolcorp.intranet,ps-bank
-Davi Souza Sande,davi.sande@uolinc.com,ps-bank
-Everton da silva rodrigues,esrodrigues@uolinc.com,ps-bank
-tqi_gstorti@uolinc.com,Guilherme Storti,ps-bank
-Acassio Marques,ajmarques@pagseguro.com,ps-bank
-renato_nascimento,renato.nascimento@tqi.com.br,ps-bank
+Gabriel Morais Barbosa,tqi_gbarbosa@uolinc.com,ps-bank
+Andre Xavier,andrexavier,ps-bank
+tsb_algoncalves,tsb_algoncalves@ni-85945-7,ps-bank
 Helio Kanno,tqi_hkano@pagseguro.com,ps-bank
-Rafael Santos Leite,tqi_rleite@pagseguro.com,ps-bank
-jalmeida,jalmeida@uolinc.com,ps-bank
-Leonardo de Souza,=,ps-bank
 Doughert Fernandes,doughert.fernandes@tqi.com.br,ps-bank
+leeticiareiss,leeticiareiss@git.com,ps-bank
+Leandro Fernandes,s2it-uol-0016@MacBook-Pro-de-Leandro.local,ps-bank
+Leandro Fernandes,s2it-uol-0016@ni-60059-9.uolcorp.intranet,ps-bank
+usertqi,usertqi@ni-tqi002061,ps-bank
+renato_nascimento,renato.nascimento@tqi.com.br,ps-bank
+tqi_gstorti@uolinc.com,Guilherme Storti,ps-bank
+ecampos-ps,tqi_ecampos@pagseguro.com,ps-bank
+Rafael Santos Leite,tqi_rleite@pagseguro.com,ps-bank
+Pedro Almeida,tqi_palmeida@pagseguro.com,ps-bank
 fcabrini@uolinc.com,Abcaxi@2,ps-bank
+Leonardo de Souza,=,ps-bank
+jalmeida,jalmeida@uolinc.com,ps-bank
+Jonas Almeida Cezar,jalmeida@uolinc.com,ps-bank
 pborgespag,pborges@uolinc.com,ps-bank
+Paulo Renato Soares Borges,pborges@uolinc.com,ps-bank
+pborges,pborges@uolinc.com,ps-bank
+Ricardo Marques Borges,tqi_rborges@pagseguro.com,ps-bank
 svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-bank
+svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-investments
+Ramiro Pedrozo,idd_rpedrozo@uolinc.com,ps-investments
+ffdutra,fdutra@uolinc.com,ps-investments
+Adriano de Souza Paiva,tqi_asouza@uolinc.com,ps-digital-payments
+tqi-rarodrigues,tqi_rarodrigues@uolinc.com,ps-digital-payments
 Thiago Paiva da Silva,thiago.silva@tqi.com.br,ps-digital-payments
 Leandro Gomes,tqi_lgomes@uolinc.com,ps-digital-payments
+Marcelo Santos de Azevedo,marcelo-azevedo@marcelo.azevedo,ps-digital-payments
+Nadona,fnadona@uolinc.com,ps-digital-payments
+Erico Boskovisch,cin_emadeira@uolinc.com,ps-digital-payments
+Alexandre Vilela Franco,tqiafranco@uolinc.com,ps-digital-payments
 Cesar Eduardo Angiolucci,cangiolucci@uolinc.com,ps-digital-payments
 Fábio Lima Rocha,flrocha@uolinc.com,ps-digital-payments
-jlacerda,jlacerda@uolinc.com,ps-digital-payments
 Caio Fernandes,cfernandes@uolinc.com,ps-digital-payments
+jlacerda,jlacerda@uolinc.com,ps-digital-payments
+Danilo Yamamoto,dyukio@pagseguro.com,ps-digital-payments
 gcrodrigues,ga,ps-digital-payments
+s2it_fcasseb,uol@20195,ps-digital-payments
+Vinicius de Paula,tqi_vpaula@pagseguro.com,ps-digital-payments
 svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-digital-payments
+Rodolfo Gomes da Silva Leme,rgleme@uolinc.com,ps-digital-payments
 Rodolfo Leme,rgleme@uolinc.com,ps-digital-payments
 Luan Carlos Nicolini Marcondes,cin_lmarcondes@uolinc.com,ps-digital-payments
+cin_mgraca@uolinc.com,cin_mgraca,ps-digital-payments
+Felipe Alberto Silva Escalhao,fescalhao@uolinc.com,ps-digital-payments
+cin_ramorim,cin_ramrim@uolinc.com,ps-digital-payments
 Eric Roberto Rodrigues,tqi_eroberto@pagseguro.com,ps-digital-payments
-Rodolfo Gomes da Silva Leme,rgleme@uolinc.com,ps-digital-payments
+Andre Luiz Francisco,aluiz@uolinc.com,ps-digital-payments
 rgleme,rgleme@uolinc.com,ps-digital-payments
+Danilo Arantes,tqi_darantes@uolinc.com.br,ps-wallet
+Joao Pedro Cardoso de Araujo,tqi_jaraujo@pagseguro.com,ps-wallet
 Fred Oliveira,am53_foliveira@uolinc.com,pagbank
-Rodrigo Gomes Dias,tqi_rdias@uolinc.com,pagbank
-Vinicius Silva,viasilva@pagseguro.com,pagbank
 Bruno Degan,tqi_bdegan@uolinc.com,pagbank
+joao-roriz,joao.roriz@invillia.com,pagbank
+Arthur Saad Barbosa,tqi-abarbosa@uolinc.com,pagbank
+Webert Vieira Arantes,webert.arantes@tqi.com.br,pagbank
+Bruno Souza,cin_bsouza@uolinc.com,pagbank
 luan santiago,luan.santiago@tqi.com.br,pagbank
-pve_gsantana,pve_gsantana@192.168.1.71,pagbank
-Guilherme de Jesus Santana,pve_gsantana@ni-97015-9.uolcorp.intranet,pagbank
-pve_gsantana,pve_gsantana@172.30.35.42,pagbank
-Bitrise Buildbot,l-dev-pagseguro-davos@uolinc.com,pagbank
-david.guedes,INVILLIA2020GUEDES,pagbank
-roberto,tqi_rguimaraes@pagseguro.com,pagbank
+plobo,Pa15715788//44,pagbank
+lbonafe,lbonafe@uolinc.com,pagbank
+Lucas Bonafé,lbonafe@uolinc.com,pagbank
+Marcos Paulo Siqueira de Farias,tqi_mfarias@ni-tqi002674.uolcorp.intranet,pagbank
+tqi_randrade,e87a00dcb31bb4eac950647ba90d3968c8440ce3,pagbank
+Lucas Henrique de Oliveira Silva,tqi_lhenrique@ni-tqi002675.uolcorp.intranet,pagbank
+ednaldo.santos,ednaldo.santos@iteris.com.br,pagbank
+Eduardo Viana Pessoa,idd_epessoa@uolinc.com,pagbank
+João Victor Holanda Roriz,joao-roriz@joao.roriz,pagbank
 Jose Renato,joserenato@ni-40875-0.uolcorp.intranet,pagbank
+Leandro de Sousa,tqi_lsousa@uolinc.com,pagbank
+Rodrigo Gomes Dias,tqi_rdias@uolinc.com,pagbank
+leandrodesousauol,67276728+leandrodesousauol@users.noreply.github.com,pagbank
+Vinicius Silva,viasilva@pagseguro.com,pagbank
+pve_gsantana,pve_gsantana@ni-97015-9,pagbank
+Guilherme de Jesus Santana,pve_gsantana@ni-97015-9.uolcorp.intranet,pagbank
+pve_gsantana,pve_gsantana@192.168.1.71,pagbank
+pve_gsantana,pve_gsantana@172.30.35.42,pagbank
+Vinicius Fonseca Pinheiro,vpinheiro@ni-32162-8p.uolcorp.intranet,pagbank
+Bitrise Buildbot,l-dev-pagseguro-davos@uolinc.com,pagbank
+Karolina Franca,karolina.eugenio@tqi.com.br,pagbank
+Leandro Bastos,leandrobastos@NI-INV2533.uolcorp.intranet,pagbank
+Leandro Almeida de Bastos,idd_lbastos@NI-INV2533.uolcorp.intranet,pagbank
+Hundily,hundily.cerqueira@tqi.com.br,pagbank
+Leandro Almeida de Bastos,leandro.bastos@Invillias-MacBook-Pro.local,pagbank
+Franclin Cabral,franclin.oliveira@invillia.com,pagbank
+Pedro Almeida,tqi_palmeida@pagseguro.com,pagbank
+Lucas Correa,lucas.correa@invillia.com,pagbank
+Lucas Rodrigues Dias,tqi_ldias@ni-tqi002671.uolcorp.intranet,pagbank
+Alex dos Santos,alex.santos@invillia.com,pagbank
 Tiago Vaz,tvaz@@uolinc.com,pagbank
+Fagner Joao Ferreira Silva,idd_fsilva@NI-INV1174.uolcorp.intranet,pagbank
+david.guedes,INVILLIA2020GUEDES,pagbank
+David Guedes,david.guedes@MacBook-Pro-de-Invillia.local,pagbank
+roberto,tqi_rguimaraes@pagseguro.com,pagbank
+Matheus,matheus@MacBook-Pro-de-Usertqi.local,pagbank
+jlamas,jlamas@uolinc.com,pagbank
+pborges,pborges@uolinc.com,pagbank
+William Souto Faria,tqi_wfaria@stash.uol.intranet,pagbank
+Carolina Galvao de Oliveira,cgalvao@uolinc.com,pagbank
 Thiago Matar,thiago.queiroz@tqi.com.br,pagbank
+Gilson Silva,gilson.silva@wizity.com.br,pagbank
+Odilon Jonathan Kröger,okroger@uolinc.com,pagbank
+Odilon J. Kroger,okroger@uolinc.com,pagbank
 Antino Braganca,tqi_abraganca@pagseguro.com,pagbank
 gmartinez,gmartinez@pagseguro.com,pagbank
 Thiago Queiroz Matar,tqi_tqueiroz@pagseguro.com,pagbank
+Doughert Fernandes,doughert.fernandes@tqi.com.br,pagbank
+Danilo Arantes,tqi_darantes@uolinc.com.br,pagbank
 Augusto Victor Martins Gomides,tqi_agomides@pagseguro.com,pagbank
+idd_dfigueira,idd_dfigueira@pagseguro.com,pagbank
+tqi_gstorti@uolinc.com,Guilherme Storti,pagbank
 Caio Augusto Papai,cpapai@uolinc.com,pagbank
+Rafael Santos Leite,tqi_rleite@pagseguro.com,pagbank
 Alison Joveliano Ferrenha,aferrenha@ni-90481-6.uolcorp.intranet,ps-financial-services
 Vinícius Carrijo,vinicius.carrijo@tqi.com.br,ps-financial-services
 Mauricio Souza Vilela,tqi-mvilela,ps-financial-services
 dannbacelar,danngrise@gmail.com,ps-financial-services
 tqi_jesantos,tqi_jesantos@uolinc.com,ps-financial-services
 tqi-valmir,tqi-vferreira@uolinc.com,ps-financial-services
+svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-financial-services
+Antonio Guilherme Lima Nunes,agnunes@ni-22765-6.uolcorp.intranet,ps-financial-services
 Cintia Pedroso,ndd_mpedroso@uolinc.com,ps-store
+Filipe Salgado Tagliacozzi,s2it_ftagliacozzi@pagseguro.com,ps-store
 Luis Soutello,luis@netpos.com.br,ps-store
+valmirt_,valmir.torres@netpos.com.br,ps-store
+leo-moscardo,leonardo.moscardo@netpos.com.br,ps-store
+Ricardo Ribeiro,nsd_rribeiro@uolinc.com,ps-store
+Augusto Fabio Klein,idd_aklein@pagseguro.com,ps-store
+Pedro Moro Comito,s2it_pcomito@pagseguro.com,ps-store
 Caio Augusto Papai,cpapai@uolinc.com,ps-mobileappchannel
-monte,henrique@netpos.com.br,ps-mobileappchannel
+Daniel Ricardo do Nascimento Lopes,danascimento@ni-08392-9.uolcorp.intranet,ps-mobileappchannel
 Felipe Valadares,felipe.valadares@uolinc.com,ps-mobileappchannel
 Marlon Mafra,marlon.mafra@zygotecnologia.com,ps-mobileappchannel
-cin_rjeronymo,cin_rjeronymo@NI-81049-1.uolcorp.intranet,ps-apichannel
+monte,henrique@netpos.com.br,ps-mobileappchannel
+José Bernardino,jose@netpos.com.br,ps-mobileappchannel
+Marlon Mafra,marmafra@uolinc.com,ps-mobileappchannel
+nsd_jsouza,jessica@netpos.com.br,ps-mobileappchannel
+Lucas_Fernandes01,lucas.fernandes@netpos.com.br,ps-mobileappchannel
+Jose Renato,joserenato@ni-40875-0.uolcorp.intranet,ps-mobileappchannel
+Andre Firmo,nsd_afirmo@oulinc.com,ps-mobileappchannel
+Daniel Cardoso Custodio de Oliveira,nsd_doliveira@pagseguro.com,ps-mobileappchannel
+svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-mobileappchannel
 Christian Jullian Rizzato,peo_crizzato,ps-servicedeskchannel
+Leonardo Rossi,s2it_lrossi@uoloinc.com,ps-servicedeskchannel
 macoliveira,55ZJo7,ps-servicedeskchannel
+Daniel Rufato,daniel.rufato@oulinc.com,ps-servicedeskchannel
+Hendris Koya,hkoya@uolinc.com,ps-servicedeskchannel
 Fernando Gomes,fehenrique@uolinc.com,ps-servicedeskchannel
+Denis Salazar,dsgsouza@uolinc.com,ps-servicedeskchannel
 Josiel Rocha,jcrocha@pagseguro.com,ps-servicedeskchannel
 Christian Jullian Rizzato,peo_crizzato,ps-web-channel
+Caio Augusto Papai,cpapai@uolinc.com,ps-web-channel
 Josiel Rocha,jcrocha@pagseguro.com,ps-web-channel
+Erivaldo Sobral - ESB,ice_esobral@pagseguro.com,ps-web-channel
+jlamas,jlamas@uolinc.com,ps-web-channel
+Nelma,nelmasb@gmai.com,ps-web-channel
+Felipe de Oliveira Rocha,s2it_frocha@pagseguro.com,ps-web-channel
+Rafael Zucareli,rsantiago@uolinc.com,ps-web-channel
+Rafael Zucareli Santiago,rsantiago@uolinc.com,ps-web-channel
+Maiky Alves da Silva,tqi_msilva@uolinc.com,ps-web-channel
+Rafael Santos Leite,tqi_rleite@pagseguro.com,ps-web-channel
 Douglas Elias,douglas.elias@netpos.com.br,ps-web-channel
+Douglas Pereira dos Santos,nsd_dpereira@pagseguro.com,ps-web-channel
+Luan,santos.luan.pereira@gmail.com,ps-web-channel
+Caio Fernandes de Souza,cfernandes@uolinc.com,ps-web-channel
+Caio Fernandes,cfernandes@uolinc.com,ps-web-channel
+gmartinez,gmartinez@pagseguro.com,ps-web-channel
 Doughert Fernandes,doughert.fernandes@tqi.com.br,ps-third-party-services
 William Souto Faria,tqi_wfaria@stash.uol.intranet,ps-third-party-services
 Cesar Eduardo Angiolucci,cangiolucci@uolinc.com,ps-third-party-services
-cd.qa.pagseguro.intranet,l-scrum-praga@uolinc.com,ps-corp-platform
+svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-third-party-services
+Luan Carlos Nicolini Marcondes,cin_lmarcondes@uolinc.com,ps-third-party-services
+Hugo Ribeiro,hleca@uolinc.com.br,ps-corp-platform
+Paulo Bezerra,pbezerra@pagseguro.com.br,ps-corp-platform
 Neilton Carvalho,ncarvalho@uolinc.com,ps-corp-platform
+Marcelo Euzebio Scarton,mscarton@uolinc.com,ps-corp-platform
+Ellen Provati,eprovati@yahoo.com.br,ps-corp-platform
+cd.qa.pagseguro.intranet,l-scrum-praga@uolinc.com,ps-corp-platform
+root,root@ip-10-188-17-81.host.pags,ps-corp-platform
+Luiz Flavio Rojo Fernandes,lffernandes@uolinc.com,ps-corp-platform
 Christian Jullian Rizzato,peo_crizzato,ps-corp-platform
+Damiao Martins,dammartins@uolinc.com,ps-corp-platform
+Damião Martins,dammartins@uolinc.com,ps-corp-platform
 igor frazzon,igor.frazzon@invillia.com,ps-corp-platform
 Luis Henrique Miyasiro Gomes,lmiyasiro@lgomes@gmail.com,ps-corp-platform
+svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-corp-platform
+Leonardo Gouveia Naccarati,lgouveia@ni-86343-7.uolcorp.intranet,ps-corp-platform
 gmartinez,gmartinez@pagseguro.com,ps-corp-platform
 Jairo Rogerio dos Santos Ricarte,jricarte@pagseguro.com,ps-corp-platform
-marrocha-ps,marrocha@pagseguro.com,ps-corp-platform
+svcacc_pagseguro_mvn,svcacc_pagseguro_mvn@uolinc.com,ps-corp-platform
+jlamas,jlamas@uolinc.com,ps-corp-platform
 FelipeLuz,fluz@uolinc.com,ps-corp-platform
-Felipe Alberto Silva Escalhao,fescalhao@uolinc.com,ps-corp-platform
-Patricia Sayuri Takeda,ptakeda@uolinc.com,ps-corp-platform
-Thiago Perriolat Fuda,tfuda@uolinc.com,ps-corp-platform
-Luiz Flavio Rojo Fernandes,lffernandes@uolinc.com,ps-corp-platform
 Luan Carlos Nicolini Marcondes,cin_lmarcondes@uolinc.com,ps-corp-platform
+marrocha-ps,marrocha@pagseguro.com,ps-corp-platform
+Guilherme Henrique Pereira Danielli,guilherme.danielli@pampa.compasso,ps-corp-platform
+Felipe Alberto Silva Escalhao,fescalhao@uolinc.com,ps-corp-platform
+Felipe,fluz@uolinc.com,ps-corp-platform
+Andre L P Santos,alpsantos@pagseguro.com,ps-corp-platform
+anpaula,anpaula@pagseguro.com,ps-corp-platform
+Mateus Afonso Xavier Cardoso,tal_mcardoso@uolinc.com,ps-corp-platform
+Andre Luiz Francisco,aluiz@uolinc.com,ps-corp-platform
+Rony Clay Aita Aurora,tqi_raurora@uolinc.com,ps-corp-platform
+tqi_raurora,tqi_raurora@uolinc.com,ps-corp-platform
+Leonid Lapshin,originalnoe-nazvanie@yandex.ru,ps-corp-platform
+Nikita Bykov,v-nibyko@microsoft.com,ps-corp-platform
+Sergey Dolin,v-sedoli@micorosoft.com,ps-corp-platform
+Dmitry Shibanov,v-dmshib@microsoft.com,ps-corp-platform
+MaksimZhukov,v-mazhuk@microsoft.com,ps-corp-platform
+Bruno Pereira do Nascimento,bpnascimento@uolinc.com,ps-corp-platform
+Pedro Phelipe da Silva Ribeiro,psribeiro@uolinc.com,ps-corp-platform
+Matheus Della Croce Oliveira,mdcoliveira@pagseguro.com,ps-corp-platform
+Patricia Sayuri Takeda,ptakeda@uolinc.com,ps-corp-platform
+Sayuri Takeda,ptakeda@uolinc.com,ps-corp-platform
+Thiago Perriolat Fuda,tfuda@uolinc.com,ps-corp-platform
+Jonas Almeida Cezar,jalmeida@uolinc.com,ps-corp-platform
+jalmeida,jalmeida@uolinc.com,ps-corp-platform
+Liniker Lettierre,llettierre@uolinc.com.br,ps-corp-platform
+Ralph Jose Rassweiler Filho,ctl_rrassweiler@uolinc.com,ps-corp-platform
+Rodolfo Gomes da Silva Leme,rgleme@uolinc.com,ps-corp-platform
+Rodolfo Leme,rgleme@uolinc.com,ps-corp-platform
+Neilton Pereira de Carvalho,ncarvalho@uolinc.com,ps-corp-platform
+Ludmila Brochini Rodrigues,lbrochini@uolinc.com,ps-corp-platform
 César Noboru Iano Lira,cesarnoboru@MacBook-Air.local,ps-corp-platform
 Josiel Rocha,jcrocha@pagseguro.com,ps-corp-platform
 Jose Guilherme Dantas Ramia,jramia@uolinc.com,ps-corp-platform
-anpaula,anpaula@pagseguro.com,ps-corp-platform
-svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-corp-platform
-Rodolfo Leme,rgleme@uolinc.com,ps-corp-platform
-Rodolfo Gomes da Silva Leme,rgleme@uolinc.com,ps-corp-platform
-Marcelo Euzebio Scarton,mscarton@uolinc.com,ps-corp-platform
+Matheus Scarpato Fidelis,matheus@USS-Enterprise.local,ps-corp-platform
+Diego de Freitas Queiroga Alves,dalves@uolinc.com,ps-corp-platform
+bmatheus,bmatheus@uolinc.com,ps-corp-platform
+Marcelo Cardelli de Camargo,mcardelli@uolinc.com,ps-corp-platform
+Lucas Soares Franco,lsfranco@uolinc.com,ps-corp-platform
+Bruno,bbraziel@uolinc.com,ps-corp-platform
 Diego Benedito Pimentel,dbenedito@uolinc.com,ps-corp-platform
-svcacc_pagseguro_mvn,svcacc_pagseguro_mvn@uolinc.com,ps-corp-platform
+Vinicius dos Santos Cavalcanti,vcavalcanti@uolinc.com,ps-corp-platform
 root,root@ni-97374-5,ps-corp-platform
-Paulo Bezerra,pbezerra@pagseguro.com.br,ps-corp-platform
+Leonardo Krivickas,lkrivickas@uolinc.com,ps-corp-platform
+Filipe Adriano Gomes,cin_fgomes@pagseguro.com,ps-corp-platform
+Matheus Aquati Kurianski,mkurianski@uolinc.com,ps-corp-platform
+gcrodrigues,ga,ps-corp-platform
+auto-git,auto-git@uolinc.com.br,ps-corp-platform
+auto-commit,auto-commit@uolinc.com,ps-corp-platform
 root,root@NI-05997-4.uolcorp.intranet,ps-corp-platform
 Thaina Mili Ribeiro Alves,tmalves@uolinc.com,ps-corp-platform
 thaina,tmalves@uolinc.com,ps-corp-platform
@@ -111,14 +278,11 @@ Andre Martins,maz_amartins@uolinc.com,ps-corp-platform
 Diego Alves,dalves@gmail.com,ps-corp-platform
 ebferreira,ebferreira@uolinc.com,ps-corp-platform
 Edwin Batista Ferreira,ebferreira@uolinc.com,ps-corp-platform
-fabiosako,fsako@uolinc.com,ps-acquirer
-Liniker Lettierre,llettierre@uolinc.com.br,ps-acquirer
-andlima,cin_asantos@uolinc.com,ps-acquirer
-Emerson Pereira,emerson.pereira@invillia.com,ps-acquirer
-Aurelio Costa,idd_acosta@uollinc.com,ps-acquirer
-Pedro Junqueira Paduan,pedro-paduan@pedro.paduan,ps-acquirer
-Fernando Gomes,fehenrique@uolinc.com,ps-acquirer
-rasampaio,Silvia.21,ps-acquirer
+Ricardo Rolim Machado,rrmachado@uolinc.com,ps-corp-platform
+Bruno Bueno da Silva,fvd_bsilva@example.com,ps-corp-platform
+Luiz Flavio Rojo Fernandes,lffernandes@uolinc.com,ps-infra
+Luis Henrique Miyasiro Gomes,lmiyasiro@lgomes@gmail.com,ps-infra
+cin_rjeronymo,cin_rjeronymo@NI-81049-1.uolcorp.intranet,ps-apichannel
 rpuglielli,pugliellirobison@gmai.com,ps-yami
 Luan Carlos Nicolini Marcondes,cin_lmarcondes@uolinc.com,ps-yami
 svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-yami
@@ -126,43 +290,224 @@ Felipe Vieira,s2it_fvieira@NI-INV2485.uolcorp.intranet,ps-customer
 Fábio,fgouveia@uolinc.com,ps-customer
 Nelson Ferreira dos Santos Junior,nesantos@uolinc.com,ps-customer
 jefferson-brandao,s2it_jgusmao@pagseguro.com,ps-customer
+Alex dos Santos,alex.santos@invillia.com,ps-customer
 Márcio Barbosa Gomes,marcio.gomes@invillia.com,ps-customer
-Lucas de Araujo Silva Dantas,lucas-dantas@lucas.dantas,ps-customer
+Denis Salazar,dsgsouza@uolinc.com,ps-customer
+Paulo Vinicius Mendonça Amaral da Silva,paulo-silva@paulo.silva,ps-customer
+gfolegatti,gfolegatti@uolinc.com,ps-customer
+Leonardo Toscano,ltoscano@uolinc.com,ps-customer
+Gabriel Morais Barbosa,tqi_gbarbosa@uolinc.com,ps-customer
 jalmeida,jalmeida@uolinc.com,ps-customer
+Jonas Almeida Cezar,jalmeida@uolinc.com,ps-customer
+Gabriel Folegatti Santana,gfolegatti@uolinc.com,ps-customer
+EC2 Default User,ec2-user@ip-10-198-144-10.sa-east-1.compute.internal,ps-customer
+Lucas de Araujo Silva Dantas,lucas-dantas@lucas.dantas,ps-customer
+Vitor Rodrigues,vitor.rodrigues@invillia.com,ps-customer
+Rodrigo Deivid Maximiano,s2it_rmaximiano,ps-customer
+Pedro Junqueira Paduan,idd_ppaduan@oulinc.com,ps-customer
+Leonardo de Souza,=,ps-customer
 Juliana Carla Santana dos Santos,juliana-santos@juliana.santos,ps-customer
-Victor-Silva96,#Ril071097,ps-customer
-marrocha-ps,marrocha@pagseguro.com,ps-customer
+Vagner Barbosa Dantas,idd_vdantas@pagseguro.com,ps-customer
+Luis Milheiro,luis.milheiro@invillia.com,ps-customer
 gmartinez,gmartinez@pagseguro.com,ps-customer
-jlamas,jlamas@uolinc.com,ps-customer
-Luan Santos,s2it_lsantos@uolinc.com,ps-customer
-Luan,santos.luan.pereira@gmail.com,ps-customer
+Lucas de Assis Carvalho,lucas-carvalho@lucas.carvalho,ps-customer
+Thiago Araujo da Silva,s2it_tsilva@pagseguro.com,ps-customer
+Rodrigo Bulgarelli,rodrigo@Rodrigos-Mac-mini.local,ps-customer
+Victor-Silva96,#Ril071097,ps-customer
+Rafael Alberto,s2it_ralberto@pagseguro.com,ps-customer
+Murilo da Silva Dourado Souza,vil_msouza@pagseguro.com,ps-customer
+Rafael Albuquerque Cardoso,idd_rcardoso@pagseguro.com,ps-customer
+Eduardo Santos de Oliveira,idd_eoliveira@pagseguro.com,ps-customer
+Cristiano Aparecido Oliveira,idd_coliveira@pagseguro.com,ps-customer
+marrocha-ps,marrocha@pagseguro.com,ps-customer
 Daniel Marcos Felizi da Silva,dfelizi@uolinc.com,ps-customer
+gcrodrigues,ga,ps-customer
+jlamas,jlamas@uolinc.com,ps-customer
+Luan,santos.luan.pereira@gmail.com,ps-customer
+Matheus Maine,idd_mmaine@pagseguro.com,ps-customer
+elvis.guarda,idd_eguarda@uolinc.com,ps-customer
+Leandro de Ponte,s2it_lponte@uolinc.com,ps-customer
+Dennis Coutinho Barbosa,s2it_dbarbosa@pagseguro.com,ps-psp
+Wagner Alves de Oliveira,idd_woliveira@pagseguro.com,ps-psp
+Rebeca de Queiroz Dantas,idd_rdantas@pagseguro.com,ps-psp
 root,root@rebeca.dantas,ps-psp
-Thiago,thiago.castro@invillia.com,ps-psp
 Fabio Junqueira Bruno,"s2it_fbruno@uolinc,com",ps-psp
-arthurclaudiomonteiro,0809199320,ps-psp
-Marcelo Rosa,marrosa@uolinc.com,ps-psp
-Jose Renato,joserenato@ni-40875-0.uolcorp.intranet,ps-psp
-Jose Guilherme Dantas Ramia,jramia@uolinc.com,ps-psp
-anpaula,anpaula@pagseguro.com,ps-psp
+Thiago,thiago.castro@invillia.com,ps-psp
+Jefferson Vieira da Silva,s2it_jvieira@uolinc.com,ps-psp
 Bruno Bueno da Silva,fvd_bsilva@example.com,ps-psp
+arthurclaudiomonteiro,0809199320,ps-psp
+Alysson,alysson.salgado@uolinc.com,ps-psp
+Marcelo Rosa,marrosa@uolinc.com,ps-psp
+Marcelo dos Santos Rosa,marrosa@uolinc.com,ps-psp
+Jose Renato,joserenato@ni-40875-0.uolcorp.intranet,ps-psp
+Rafael Albuquerque Cardoso,idd_rcardoso@pagseguro.com,ps-psp
+Murilo da Silva Dourado Souza,vil_msouza@pagseguro.com,ps-psp
+Cicero Sa Araujo,til_caraujo@pagseguro.com,ps-psp
+Guilherme Barros,ghbarros@pagseguro.com,ps-psp
+svcacc_pagseguro_mvn,svcacc_pagseguro_mvn@uolinc.com,ps-psp
+Luiz Claudio de Holanda,tar_lholanda@uolinc.com,ps-psp
+tar_lholanda,tar_lholanda@uolinc.com,ps-psp
+William Souto Faria,tqi_wfaria@stash.uol.intranet,ps-psp
+anpaula,anpaula@pagseguro.com,ps-psp
+Jose Guilherme Dantas Ramia,jramia@uolinc.com,ps-psp
+Carlos Alberto dos Santos Gomes,idd_cgomes@uolinc.com,ps-psp
+Bruno de Melo Rodrigues,til_brodrigues@pagseguro.com,ps-psp
+marrocha-ps,marrocha@pagseguro.com,ps-psp
+Andre L P Santos,alpsantos@pagseguro.com,ps-psp
 Diogo Tavares de Azevedo Japiassu,idd_djapiassu@pagseguro.com,ps-psp
+Andre Luis Cristiani,andre-cristiani@andre.cristiani,ps-psp
+Elton Leite,idd_eborges,ps-psp
 jlwollinger,jlwollinger@github.com.br,ps-psp
 FelipeLuz,fluz@uolinc.com,ps-psp
-marrocha-ps,marrocha@pagseguro.com,ps-psp
+Marcus Vinicius Prieto,fvd_mprieto@uolinc.com,ps-psp
+Felipe,fluz@uolinc.com,ps-psp
+Bruno Rodrigues,til_brodrigues@uolinc.com.br,ps-psp
+Gradson Edgard Mesquita,til_gmesquita@pagseguro.com,ps-psp
+Sham Vinicius Fiorin,til_sfiorin@uolinc.com.br,ps-psp
+Djalma Godinho,vil_dgodinho@pagseguro.com,ps-psp
+Evandro Callegaro,vil_ecallegaro@pagseguro.com,ps-psp
+Bruno Mendes,idd_bmendes@pagseguro.com,ps-psp
+jefferson-brandao,s2it_jgusmao@pagseguro.com,ps-psp
+Liniker Lettierre,llettierre@uolinc.com.br,ps-psp
+tqi-rarodrigues,tqi_rarodrigues@uolinc.com,ps-psp
 Gabriel de Andrade Vescovi Nagib,gnagib,ps-psp
 Aurelio Costa,idd_acosta@uollinc.com,ps-psp
+andlima,cin_asantos@uolinc.com,ps-psp
+rleoneti,rleoneti@ni-44150-5.uolcorp.intranet,ps-psp
+Guilherme,guagostinho@uolinc.com,ps-psp
+Guilherme Henrique Agostinho,guagostinho@uolinc.com,ps-psp
 Andre Luis de Lima Martins,almartins@uolinc.com,ps-psp
 Andre Martins,almartins@pagseguro.com,ps-psp
+pegomesolv,pegomesolv@uolinc.com,ps-psp
+rmferreira,rmferreira@pagseguro.com,ps-psp
 Hevilavio Aparecido Silva Soares,hesoares@uolinc.com,ps-psp
-svcacc_pagseguro_mvn,svcacc_pagseguro_mvn@uolinc.com,ps-psp
-andlima,cin_asantos@uolinc.com,ps-psp
+Daniel dos Santos Filho,cin_dansantos@uolinc.com,ps-psp
+Daniel Filho,cin_dansantos@uolinc.com,ps-psp
+Bruna Carrijo,bcarrijo@pagseguro.com,ps-psp
+Carlos Augusto,ccerqueira@uolinc.com,ps-psp
+svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-psp
+Fabio Paolini Madruga,cin_fmadruga@uolinc.com,ps-psp
+Fabio Madruga,cin_fmadruga@uolinc.com,ps-psp
+Sisinio Gomes Moreira Junior,am53_smoreira@uolinc.com,ps-psp
+Sisinio Junior,am53_smoreira@uolinc.com,ps-psp
 "André ""Intentor"" Martins",almartins@pagseguro.com,developer-productivity
 Andre Martins,almartins@pagseguro.com,developer-productivity
 Jorge Corradi,pve_jcorrad@uolinc.com,developer-productivity
+Caio Augusto Papai,cpapai@uolinc.com,developer-productivity
+Luan Carlos Nicolini Marcondes,cin_lmarcondes@uolinc.com,developer-productivity
 Rodolfo Leme,rgleme@uolinc.com,developer-productivity
+Rodolfo Gomes da Silva Leme,rgleme@uolinc.com,developer-productivity
 cd.qa.pagseguro.intranet,l-scrum-praga@uolinc.com,pagseguro-core
 jlwollinger,jlwollinger@github.com.br,pagseguro-core
-marrocha-ps,marrocha@pagseguro.com,pagseguro-core
-Neilton Carvalho,ncarvalho@uolinc.com,pagseguro-core
+Aurelio Costa,idd_acosta@uollinc.com,pagseguro-core
 Jairo Rogerio dos Santos Ricarte,jricarte@pagseguro.com,pagseguro-core
+cin_mgraca@uolinc.com,cin_mgraca,pagseguro-core
+root,root@ip-10-191-8-199.host.pags,pagseguro-core
+"André ""Intentor"" Martins",almartins@pagseguro.com,pagseguro-core
+Luan Carlos Nicolini Marcondes,cin_lmarcondes@uolinc.com,pagseguro-core
+marrocha-ps,marrocha@pagseguro.com,pagseguro-core
+Erico Boskovisch,cin_emadeira@uolinc.com,pagseguro-core
+Danilo Yamamoto,dyukio@pagseguro.com,pagseguro-core
+Neilton Carvalho,ncarvalho@uolinc.com,pagseguro-core
+Paulo Henrique da Silva,pahsilva@uolinc.com,pagseguro-core
+svcacc_pagseguro_mvn,svcacc_pagseguro_mvn@uolinc.com,pagseguro-core
+idd_dfigueira,idd_dfigueira@pagseguro.com,ps-balance-cards
+Dyeimys Franco Correa,idd_dcorrea@pagseguro.com,ps-balance-cards
+Darby Ricardo Malikoski,idd_dmalikoski@pagseguro.com,ps-balance-cards
+Gustavo Mello Mascarin,s2it_gmascarin@uolinc.com,ps-balance-cards
+Lucas Prim,prim@ZYGO-C02DF0SUMNHQ.uolcorp.intranet,ps-commerce
+Leticia Costa Dias,ledias@uolinc.com,ps-commerce
+ledias,ledias@uolinc.com,ps-commerce
+lbortoli,Ray3846(,ps-commerce
+lbortoli,Ray3846),ps-commerce
+Henrique Fernandes de Mattos,pve_hmattos@pagseguro.com,ps-commerce
+Guilherme Nunes Teixeira,guilheme.nunes@ni-69519-5.uolcorp.intranet,ps-commerce
+Alyson Maia,fvd_aqueiroz@uolinc.com,ps-commerce
+Alyson Maia dos Santos Queiroz,fvd_aqueiroz@uolinc.com,ps-commerce
+Bruno Carneiro,bruno.carneiro@netpos.com.br,ps-commerce
+Bruno Carneiro,bruno.souza@grancursosonline.com.br,ps-commerce
+bruno.carneiro,bruno.carneiro@netpos.com.br,ps-commerce
+Guilherme Antonio da Fonseca,nsd_gfonseca@pagseguro.com,ps-commerce
+Ricardo Ribeiro,nsd_rribeiro@uolinc.com,ps-commerce
+Diego Scaramal,diego.scaramal@netpos.com.br,ps-commerce
+nsd_tgoncalves,nsd_tgoncalves@@uolinc.com,ps-commerce
+leo-moscardo,leonardo.moscardo@netpos.com.br,ps-commerce
+Douglas Pereira dos Santos,nsd_dpereira@pagseguro.com,ps-commerce
+Thiago Honorato,honor@MacBook-Air-de-Thiago.local,ps-commerce
+Luis Soutello,luis@netpos.com.br,ps-commerce
+Liniker Lettierre,llettierre@uolinc.com.br,ps-commerce
+Luan Carlos Nicolini Marcondes,cin_lmarcondes@uolinc.com,ps-crossborder
+Jeferson Capobianco,mse_jcapobianco@uolinc.com,ps-crossborder
+gfacina,gfacina@uolinc.com,ps-crossborder
+Luiz Augusto Solheid Scherer,lscherer@uolinc.com,ps-crossborder
+Gabriel Sabadini Facina,gfacina@uolinc.com,ps-crossborder
+edrozda,edrozda@uolinc.com,ps-crossborder
+Jeferson Aparecido Silva Belgamazzi,jbelgamazzi@uolinc.com,ps-crossborder
+Jeferson Belgamazzi,jbelgamazzi@uolinc.com,ps-crossborder
+jpureza,jpureza@uolinc.com,ps-crossborder
+Jaison Porto Pureza,jpureza@uolinc.com,ps-crossborder
+Eduardo Augusto Drozda dos Reis,edrozda@uolinc.com,ps-crossborder
+svcacc_api_atlantis,svcacc_api_atlantis@uolcorp.intranet,ps-crossborder
+Patricia Sayuri Takeda,ptakeda@uolinc.com,ps-data-platform
+Ana Magela Rodriguez Almeida,ana.rodriguez@CTNDELL6SH7QK2.pampa.compasso,ps-data-platform
+Lucas Souza Bilu Reis,lsreis@pagseguro.com,ps-bank
+Pedro Junqueira Paduan,idd_ppaduan@oulinc.com,ps-bank
+Amanda Barbosa Costa,amacosta@NI-76136-8.uolcorp.intranet,ps-investments
+Luana Silva Lima,idd_lulima@pagseguro.com,ps-investments
+Celio Oliveira Gonzaga Junior,celio.gonzaga@pampa.compasso,pagbank
+Tiago Fernandes Vaz,tvaz@ni-97671-0.uolcorp.intranet,pagbank
+Sham Vinicius Fiorin,til_sfiorin@uolinc.com.br,registra-seguro
+fcabrini@uolinc.com,Abcaxi@2,pagseguro-tilix
+Fábio,fgouveia@uolinc.com,ps-web-channel
+Renan Avanzi,ravanzi@pagseguro.com,ps-web-channel
+jlwollinger,jlwollinger@github.com.br,ps-web-channel
+Luis Benassi,lbenassi@pagseguro.com.br,ps-web-channel
+fabiosako,fsako@uolinc.com,ps-acquirer
+Odilon Jonathan Kröger,okroger@uolinc.com,ps-acquirer
+Odilon J. Kroger,okroger@uolinc.com,ps-acquirer
+Gabriela Hissae Konishi,gkonishi@pagseguro.com,ps-acquirer
+Liniker Lettierre,llettierre@uolinc.com.br,ps-acquirer
+pegomesolv,pegomesolv@uolinc.com,ps-acquirer
+Daniel dos Santos Filho,cin_dansantos@uolinc.com,ps-acquirer
+Daniel Filho,cin_dansantos@uolinc.com,ps-acquirer
+Hildequias Silas dos Santos Junior,tqi_hsantos@ni-00710-1.uolcorp.intranet,ps-acquirer
+andlima,cin_asantos@uolinc.com,ps-acquirer
+Christian Jullian Rizzato,peo_crizzato,ps-acquirer
+Fernando Gomes,fehenrique@uolinc.com,ps-acquirer
+jalmeida,jalmeida@uolinc.com,ps-acquirer
+Emerson Pereira,emerson.pereira@invillia.com,ps-acquirer
+Guilherme,guagostinho@uolinc.com,ps-acquirer
+Aurelio Costa,idd_acosta@uollinc.com,ps-acquirer
+Gabriel de Andrade Vescovi Nagib,gnagib,ps-acquirer
+Guilherme Gatto Gonçalves da Silva,ggatto@uolinc.com,ps-acquirer
+Leonardo Toscano,ltoscano@uolinc.com,ps-acquirer
+Nelson Ferreira dos Santos Junior,nesantos@uolinc.com,ps-acquirer
+Pedro Junqueira Paduan,idd_ppaduan@oulinc.com,ps-acquirer
+Pedro Junqueira Paduan,pedro-paduan@pedro.paduan,ps-acquirer
+Marcus Vinicius Prieto,fvd_mprieto@uolinc.com,ps-acquirer
+Bernadete H,bhernandes@pagseguro.com,ps-acquirer
+Fabio Madruga,cin_fmadruga@uolinc.com,ps-acquirer
+rmferreira,rmferreira@pagseguro.com,ps-acquirer
+gfolegatti,gfolegatti@uolinc.com,ps-acquirer
+ckedor,ckedor@uolinc.com,ps-acquirer
+Denis Salazar,dsgsouza@uolinc.com,ps-acquirer
+Danilo Yamamoto,dyukio@pagseguro.com,ps-acquirer
+Cesar Eduardo Angiolucci,cangiolucci@uolinc.com,ps-acquirer
+rasampaio,Silvia.21,ps-acquirer
+marrocha-ps,marrocha@pagseguro.com,ps-acquirer
+FelipeLuz,fluz@uolinc.com,ps-acquirer
+Felipe,fluz@uolinc.com,ps-acquirer
+Andre L P Santos,alpsantos@pagseguro.com,ps-acquirer
+Carlos Augusto,ccerqueira@uolinc.com,ps-acquirer
+J. Doe (https://devcenter.bitrise.io/builds/setting-your-git-credentials-on-build-machines/),please-set-your-email@bitrise.io,ps-acquirer
+Diogo Machado,diogomachado@hotmail.com,ps-yami
+Elisson Francisco da Silva,til_esilva@uolinc.com.br,ps-psp
+Adriano Paiva,tqi_asouza@uolinc.com,ps-psp
+lmonteiro,lmonteiro@uolinc.com,ps-psp
+avargas@uolinc.com,avargas@uolinc.com,ps-psp
+Carlos Alberto Tardio Rojas,crojas@uolinc.com,ps-psp
+Rodrigo Rossi dos Santos,rorossi@uolinc.com,ps-psp
+Marcio Brandao Junior,mbrandao@uolinc.com,ps-psp
+Victor Gomes de Oliveira Martins Nicola,vinicola@uolinc.com,ps-psp
+Danilo Vitoriano,dvitoriano@uolinc.com,pagseguro-core
+Davi Souza Sande,davi.sande@uolinc.com,ps-balance-cards

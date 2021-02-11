@@ -135,7 +135,7 @@ private
           add_unrecognized_author(commit[:commit][:author])
           next
         end
-        if t = @members.find {|member| member[:login] == commit["author"]["login"] && member[:active] == false }
+        if t = @members.find {|member| member[:login] == commit["author"]["login"] && member[:active] == false}
           make_active(t[:login])
         end
       end

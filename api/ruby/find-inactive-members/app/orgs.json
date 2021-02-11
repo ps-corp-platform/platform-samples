@@ -24,5 +24,8 @@
     "ps-poschannel": true,
     "ps-psp": true,
     "developer-productivity": true,
-    "pagseguro-core": true
+    "pagseguro-core": true,
+    "ps-balance-cards": true,
+    "ps-commerce": true,
+    "ps-crossborder": true
 }

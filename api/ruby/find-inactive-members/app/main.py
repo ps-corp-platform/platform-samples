@@ -175,7 +175,7 @@ if __name__ == "__main__":
         os.environ['OCTOKIT_ACCESS_TOKEN'] = GITHUB_API_TOKEN
         os.environ['OCTOKIT_API_ENDPOINT'] = GITHUB_API_URL
         rvm_ruby = os.environ['OCTOKIT_ACCESS_TOKEN']
-        execution = f"ruby find_inactive_members.rb -o {org} -d {DAYS_STOPPED}"
+        execution = f"ruby find_inactive_members.rb -o {org} -d '{DAYS_STOPPED}'"
         os.system(execution)
     
     appendOrgs("all_users")
